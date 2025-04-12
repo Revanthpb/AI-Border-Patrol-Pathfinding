@@ -1,0 +1,5 @@
+terrain_type,cost
+0,1      # Free space
+1,999    # Obstacle
+2,5      # Forest
+3,3      # Water
